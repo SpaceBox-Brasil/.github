@@ -46,7 +46,7 @@ A documentação oficial estará disponível em breve.
 ---
 
 ## 🔗 Links Oficiais
-<a href="[https://discord.gg/Z6Whda5hHA](https://discord.gg/vQHFXwpqqP)"><img src="https://discordapp.com/api/guilds/1012753553418354748/widget.png?style=banner4"></a>
+<a href="[https://discord.gg/Z6Whda5hHA](https://discord.gg/vQHFXwpqqP)"><img src="https://discordapp.com/api/guilds/1509252837505499310/widget.png?style=banner4"></a>
 
 * 💬 Discord: https://discord.gg/vQHFXwpqqP
 * 📚 Documentação: Em breve
