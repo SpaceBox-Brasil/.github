@@ -1,6 +1,6 @@
 # .github
 <p align="center">
-  <img width="180" height="180" src="LINK_DA_LOGO_SPACEBOX">
+  <img width="180" height="180" src="https://www.image2url.com/r2/default/images/1779904701217-6790acd0-b1e8-4504-bca0-38ebc896c701.png">
 </p>
 
 <h1 align="center">🚀 Bem-vindo à SpaceBox</h1>
@@ -49,7 +49,7 @@ A documentação oficial estará disponível em breve.
 
 * 💬 Discord: https://discord.gg/vQHFXwpqqP
 * 📚 Documentação: Em breve
-* 🐙 GitHub: Em breve
+* 🐙 GitHub: https://github.com/SpaceBox-Brasil
 
 ---
 
